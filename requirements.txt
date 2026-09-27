@@ -1,0 +1,4 @@
+gradio
+rembg
+onnxruntime
+pillow
