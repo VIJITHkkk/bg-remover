@@ -1,4 +1,0 @@
-gradio
-rembg
-onnxruntime
-pillow
