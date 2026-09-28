@@ -1,4 +1,0 @@
-flask
-rembg
-onnxruntime
-pillow
